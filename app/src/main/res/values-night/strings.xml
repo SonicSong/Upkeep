@@ -9,4 +9,5 @@
     <string name="more_features_coming_soon">More features coming soon!</string>
     <string name="textview">TextView</string>
     <string name="back">Back</string>
+    <string name="number"></string>
 </resources>
